@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: bronze_ecommerce
+    database: protean-bit-485303-p9
+    schema: bronze_ecommerce
+    description: "Raw data from TheLook ecommerce dataset"
+    tables:
+      - name: orders
+        description: "Order header information"
+      - name: products
+        description: "Product catalog"
+      - name: users
+        description: "Customer/user information"
+      - name: order_items
+        description: "Line items for each order"
