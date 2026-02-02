@@ -56,10 +56,10 @@ Built a **production-grade analytics platform** processing **100,000+ e-commerce
 ![Executive Dashboard](executive_dashboard.jpeg)
 
 **Key Metrics:**
-- Total Revenue: **$X.XM**
-- Customer Lifetime Value: **$XXX**
-- Average Order Value: **$XX**
-- Month-over-Month Growth: **X%**
+- Total Revenue: **$10XM**
+- Total Order: **124K**
+- Average Order Value: **$86**
+- Total Customers: **80K**
 
 ---
 
@@ -67,9 +67,8 @@ Built a **production-grade analytics platform** processing **100,000+ e-commerce
 ![Cohort Analysis](cohort_analysis.jpeg)
 
 **Insights:**
-- Identified **40% higher LTV** in organic traffic cohorts vs paid acquisition
-- Month-3 retention stabilizes at **35%** across all cohorts
-- January 2024 cohort showed **20% improvement** in retention vs. baseline
+- Identified **40% higher LTV** in Month Since Signups by User Creation Date
+- January cohort showed **20% improvement** in retention vs. baseline
 
 ---
 
@@ -77,9 +76,9 @@ Built a **production-grade analytics platform** processing **100,000+ e-commerce
 ![Product Performance](product_performance.jpeg)
 
 **Key Findings:**
-- Top category (Apparel) drives **45%** of revenue
+- Top category (Outerwear & Coats) drives **$1M** of revenue
 - Discovered **$50K revenue leakage** from high-return products
-- Profit margins vary **15-40%** across categories
+- Profit margins vary **1-2%** across top 20 brand 
 
 ---
 
