@@ -9,7 +9,7 @@
 
 ## 📊 Live Demo
 
-🔗 **[View Tableau Dashboard]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/neema.mv/vizzes))**
+🔗 **[View Tableau Dashboard](https://public.tableau.com/app/profile/neema.mv/vizzes)**
 
 ---
 
