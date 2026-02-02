@@ -9,7 +9,7 @@
 
 ## 📊 Live Demo
 
-🔗 **[View Interactive Tableau Dashboard]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/neema.mv/vizzes))**
+🔗 **[View Tableau Dashboard]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/neema.mv/vizzes))**
 
 ---
 
@@ -241,48 +241,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ```
 
 ---
-
-### **Step 7: Customize the README**
-
-Replace these placeholders:
-- `YOUR_TABLEAU_PUBLIC_URL` - Your Tableau Public dashboard link
-- `YOUR_DBT_DOCS_URL` - Your dbt Cloud docs link (get from dbt Cloud)
-- `[Your Name]` - Your actual name
-- `$X.XM` - Actual metrics from your dashboards
-- **Key Findings** - Replace with real insights from your data
-
----
-
-### **Step 8: Add a dbt Lineage Screenshot**
-
-1. Go to dbt Cloud → Click the **book icon** (documentation)
-2. Navigate to the lineage graph
-3. Take a screenshot
-4. Save as `dbt_lineage.png`
-5. Upload 
-
----
-
-### **Step 9: Commit Everything**
-
-1. Make sure all files are committed:
-   - `README.md`
-   - `*.png` (all screenshots)
-   - All dbt models and configs
-
-2. Your final repo structure should look like:
-```
-ecommerce-analytics-dbt/
-├── README.md
-├── architecture_diagram.png
-├── executive_dashboard.png
-├── cohort_analysis.png
-├── product_performance.png
-├── data_governance.png
-└── dbt_lineage.png
-├── models/
-│   ├── staging/
-│   ├── marts/
-│   └── sources.yml
-├── dbt_project.yml
-└── packages.yml
