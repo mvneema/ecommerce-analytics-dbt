@@ -217,8 +217,8 @@ ecommerce-analytics-dbt/
 ## 📫 Connect With Me
 
 **Name:** [Neema]  
-**LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/neema-mv/)]   
-**Portfolio:** [[Your Website](https://neema-madayi-veetil-o7wk4b5.gamma.site)]
+**LinkedIn:** [[LinkedIn URL](https://www.linkedin.com/in/neema-mv/)]   
+**Portfolio:** [[Website](https://neema-madayi-veetil-o7wk4b5.gamma.site)]
 
 ---
 
